@@ -12,10 +12,10 @@
 鲨鱼任务是广州西谷科技自主研发的一款悬赏平台。适合一切想赚钱的人群，如上班族，家庭主妇，自由职业者，创业者等，平台搭建后即可作为你的副业去发展，也可以成为主业去拼搏。 凡是“给钱办事”的业务，如任务悬赏，应用试玩，拉新注册，抖音点赞，购物返利，威客众包，兼职，跑腿，拉票，中介等都适合。
 
 ### 技术栈
-nodejs v14.16.1
-expressjs 4.16.0
-mysql v5.7
-redis v6.2.6
+* nodejs v14.16.1
+* expressjs 4.16.0
+* mysql v5.7
+* redis v6.2.6
 
 ### 配置
 
@@ -45,7 +45,8 @@ redis v6.2.6
 <img alt="微信xiguio" src="https://www.xigu.pro/img/code.JPG" width="200px">
 
 ### 请我喝杯咖啡
-如果项目对你有用，请不要吝啬请我喝杯咖啡呗哈哈哈。
+如果项目对你有用，请不要吝啬请我喝杯咖啡呗哈哈哈。  
+
 <img alt="微信xiguio" src="https://www.xigu.pro/img/wechat-pay.png" width="200px">
 <img alt="微信xiguio" src="https://www.xigu.pro/img/ali-pay.png" width="200px">
 

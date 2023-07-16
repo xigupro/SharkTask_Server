@@ -44,7 +44,7 @@
 ### 联系 or 申请入群
 <img alt="微信xiguio" src="https://www.xigu.pro/img/code.JPG" width="200px">
 
-### 请我喝杯咖啡
+### 打赏
 如果项目对你有用，请不要吝啬请我喝杯咖啡呗哈哈哈。  
 
 <img alt="微信xiguio" src="https://www.xigu.pro/img/wechat-pay.png" width="200px">

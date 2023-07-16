@@ -1,0 +1,47 @@
+{
+  "name": "task-paradise",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run dev",
+    "watch": "nodemon --watch",
+    "dev": "node ./bin/www"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "node_modules/**/node_modules"
+    ],
+    "env": {
+      "NODE_ENV": "development"
+    }
+  },
+  "dependencies": {
+    "@alicloud/pop-core": "^1.7.9",
+    "alipay-sdk": "^3.1.2",
+    "body-parser": "^1.18.3",
+    "body-parser-xml": "^1.1.0",
+    "connect-redis": "^3.4.0",
+    "cookie-parser": "~1.4.3",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "excel-export": "^0.5.1",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "express-xml-bodyparser": "^0.3.0",
+    "http-errors": "~1.6.2",
+    "moment": "^2.27.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.16.0",
+    "node-schedule": "^2.0.0",
+    "qiniu": "^7.2.1",
+    "qs": "^6.9.4",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.22",
+    "xmlreader": "^0.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

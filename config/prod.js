@@ -1,7 +1,7 @@
 module.exports = {
   wechat: {
-    appId: 'wxf4c87b29c31aa963',
-    appSecret: '0db84a6cc82b900b053ada692997933c',
+    appId: '',
+    appSecret: '',
     mchId: '',
     mchAppId: '',
     mchKey: '',
@@ -17,11 +17,10 @@ module.exports = {
   image: 'https://img.xigu.pro',
   domain: 'https://shark-api.xigu.pro',
   mysql: {
-    host: 'rm-uf6a5e9knb2920pd9.mysql.rds.aliyuncs.com',
+    host: '',
     port: 3306,
-    user: 'shark',
-    password: 'tjr7wAZHJnSEnLfj',
-    database: 'shark',
+    user: '',
+    database: '',
   },
   redis: {
     host: '127.0.0.1',
@@ -30,9 +29,9 @@ module.exports = {
     prefix: 'xigu:',
   },
   qiniu: {
-    accessKey: 'DrHC33U5X02jO2-eGAEK3yVa5mZ-mNwji_i_siOi',
-    secretKey: 'TZdM6rYyXp-NLtIUl2OcGAPIV6s7cGO2fmuQvkhX',
-    bucket: 'taskparadise',
+    accessKey: '',
+    secretKey: '',
+    bucket: '',
   },
   aliyun: {
     accessKey: '',

@@ -1,7 +1,7 @@
 module.exports = {
   wechat: {
-    appId: 'wxf4c87b29c31aa963',
-    appSecret: '0db84a6cc82b900b053ada692997933c',
+    appId: '',
+    appSecret: '',
     mchId: '',
     mchAppId: '',
     mchKey: '',
@@ -30,9 +30,9 @@ module.exports = {
     prefix: 'xigu:',
   },
   qiniu: {
-    accessKey: 'DrHC33U5X02jO2-eGAEK3yVa5mZ-mNwji_i_siOi',
-    secretKey: 'TZdM6rYyXp-NLtIUl2OcGAPIV6s7cGO2fmuQvkhX',
-    bucket: 'taskparadise',
+    accessKey: '',
+    secretKey: '',
+    bucket: '',
   },
   aliyun: {
     accessKey: '',
